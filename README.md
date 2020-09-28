@@ -42,7 +42,7 @@ P.S: If you want to change the bot's profile pictures use the command /setuserpi
 You can find all the necessary information about its BotFather and Telegram API on this [page].(https://core.telegram.org/bots#6-botfather)
 
 ### 3. Get XDR API Token
-Now, that you have your Telegram Bot Token, it is time to get you XDR token. Go to your XDR console → Account Management → Edit/Create Account → Copy the Authentication Code.
+Now, that you have your Telegram Bot Token, it is time to get your XDR token. Go to your XDR console → Account Management → Edit/Create Account → Copy the Authentication Code.
 
 ### 4. Start the bot
 Edit the file main.py with your Telegram Bot Token.
