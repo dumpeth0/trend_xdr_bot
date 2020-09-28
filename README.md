@@ -18,6 +18,7 @@ python-telegram-bot
 pip install python-telegram-bot --upgrade
 
 ```
+Or you can install from source with:
 
 ```
 git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
@@ -26,7 +27,7 @@ python setup.py install
 ```
 
 ### 2. Create your own bot
-To create your own bot you should go to your Telegram App and talk @BotFather. 
+To create your own bot you should go to your Telegram App and talk to @BotFather. 
 
 Use the /newbot command to create a new bot. The BotFather will ask you for a name and username, then generate an authorization token for your new bot.
 
